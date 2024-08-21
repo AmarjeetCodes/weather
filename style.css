@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color:#fff;
+    font-family: 'plain light';
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+
+}
+
+#navi{
+    margin-bottom: 20px;
+}
+#heading{
+    /* background-color: aqua; */
+    display: flexbox;
+    justify-content:center ;
+    align-items: center;
+    text-align: center;
+    margin-top: 15px;
+}
+#heading h1{
+    font-size: 4vw;
+    color: black;
+    font-family:cursive;
+    font-weight: 500;
+}
+#container{
+    
+    padding: 4rem 9rem;
+   
+}
